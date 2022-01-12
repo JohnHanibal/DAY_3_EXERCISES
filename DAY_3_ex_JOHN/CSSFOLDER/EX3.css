@@ -1,17 +1,20 @@
-div  {
-    
+div {
+
     border: 5px solid black;
 }
-#third > p {
-      display: none;
-}
-h1 {
-    display: none;
+
+#third>p {
+    visibility: hidden;
 }
 
-#second div {
-    display : none;
+h1 {
+    visibility: hidden;
 }
-#sixth img {
-    display:contents;
+
+body * {
+    visibility: hidden;
+}
+
+img {
+    visibility: visible;
 }
