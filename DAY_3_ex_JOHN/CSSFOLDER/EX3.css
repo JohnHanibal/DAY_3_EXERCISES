@@ -3,22 +3,6 @@ div {
     border: 5px solid black;
 }
 
-#third>p {
-    visibility: hidden;
-}
-
-h1 {
-    visibility: hidden;
-}
-
-body * {
-    visibility: hidden;
-}
-
-img {
-    visibility: visible;
-}
-
-body * {
-    visibility: visible;
+#third > p {
+    font-size: 2em;
 }

@@ -1,0 +1,3 @@
+ copy.article_content {
+    border: 1px solid black;
+}
